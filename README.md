@@ -1,20 +1,9 @@
-# Hey there! I'm YourName 👋
+## 👋 Hey, I'm YourName
 
-## 👨🏻‍💻 About Me
-🎓 Computer Science student  
-💻 Interested in Web Development / AI / etc  
-📍 Based in India  
+💻 Software Engineer  
+🚀 Love building cool stuff  
 
-## 🔗 Portfolio
-[Visit my portfolio](https://your-link.com)
+### 🧠 Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
 
-## 📫 Contact
-- Email: your@email.com
-- LinkedIn: your-link
-
-## 🚀 Skills
-- Python 🐍
-- Java ☕
-- HTML/CSS 🌐
-
-⭐️ From YourUsername
+---

@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=22F7A1&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%2F+ML+Explorer;Building+Cool+Things;Always+Learning+New+Tech" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=22F7A1&center=true&vCenter=true&width=600&lines=Backend+%26+Data+Systems+Engineer;MSc+Advanced+Computer+Science;Machine+Learning+Enthusiast;Building+Scalable+Systems" />
   </a>
 </p>
 
@@ -15,9 +15,9 @@
 <div align="center">
 
 ```diff
-+ 💻 Software Engineer
-+ 🚀 Passionate about AI, Backend & Scalable Systems
-+ 🌌 Love clean UI + powerful logic
++ 🎓 MSc Advanced Computer Science | BE Information Science
++ 🧠 Backend & Data Systems Engineer | ML Enthusiast
++ 🏆 Built scalable backend systems & ML pipelines for real-world datasets
 + 📍 India
 ```
 
@@ -31,7 +31,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp,ts,react,nodejs,html,css,mongodb,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,sql,cpp,js,ts,nodejs,react,mongodb,git,linux&theme=dark" />
 
 </p>
 
@@ -47,19 +47,20 @@
 
 ---
 
-<!-- ===== STATS ===== -->
-
+<!-- ===== SKILLS ===== -->
 
 ## 🛠️ Tools & Skills
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00f7ff"/>
 
 </p>
 
@@ -68,5 +69,5 @@
 <!-- ===== FOOTER ===== -->
 
 <p align="center">
-  ⚡ <i>“Code. Create. Innovate.”</i> ⚡
+  ⚡ <i>“Design scalable systems. Solve real problems.”</i> ⚡
 </p>

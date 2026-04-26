@@ -18,7 +18,6 @@
 + 🎓 MSc Advanced Computer Science | BE Information Science
 + 🧠 Backend & Data Systems Engineer | ML Enthusiast
 + 🏆 Built scalable backend systems & ML pipelines for real-world datasets
-+ 📍 India
 ```
 
 </div>
@@ -31,7 +30,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,sql,cpp,js,ts,nodejs,react,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,sql,nodejs,RestAPI,git,linux&theme=dark" />
 
 </p>
 
@@ -57,7 +56,7 @@
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=RestAPI&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00f7ff"/>
 
 </p>

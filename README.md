@@ -30,7 +30,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql,nodejs,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,nodejs,docker,c,cpp,cs,html,css,git,linux&theme=dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST%20API-0d1117?style=for-the-badge&logo=fastapi&logoColor=00f7ff"/>
 
 </p>
 

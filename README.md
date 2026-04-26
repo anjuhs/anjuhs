@@ -31,7 +31,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,sql,cpp,js,ts,nodejs,react,mongodb,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,sql,cpp,js,ts,nodejs,react,git,linux&theme=dark" />
 
 </p>
 
@@ -55,11 +55,9 @@
 
 <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00f7ff"/>
 
 </p>

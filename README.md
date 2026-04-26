@@ -30,7 +30,9 @@
 ## ⚡ Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjuhs&layout=compact&bg_color=0d1117&title_color=00f7ff&text_color=9be9ff&border_color=1f6feb&hide_border=false" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjuhs&layout=compact&hide=html,css&langs_count=5&bg_color=0d1117&title_color=00f7ff&text_color=9be9ff" />
+
 </p>
 
 ---

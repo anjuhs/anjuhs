@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/mysql-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/C#-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/REST%20API-0d1117?style=for-the-badge&logo=fastapi&logoColor=00f7ff"/>
 <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00f7ff"/>

@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 
-<h1 align="center">Hey 👋, I'm Anju</h1>
+<h1 align="center">Hi 👋, I'm Anjana Shivananda</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -49,35 +49,6 @@
 
 <!-- ===== STATS ===== -->
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjuhs&show_icons=true&bg_color=0d1117&title_color=00f7ff&text_color=9be9ff&icon_color=00f7ff&border_color=1f6feb" />
-</p>
-
----
-
-<!-- ===== STREAK ===== -->
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anjuhs&theme=dark&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&sideLabels=9be9ff&dates=9be9ff" />
-</p>
-
----
-
-<!-- ===== SNAKE ANIMATION ===== -->
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anjuhs/anjuhs/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<!-- ===== CUSTOM BADGES ===== -->
 
 ## 🛠️ Tools & Skills
 

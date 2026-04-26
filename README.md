@@ -30,7 +30,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,MYsql,nodejs,RestAPI,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,nodejs,git,linux&theme=dark" />
 
 </p>
 
